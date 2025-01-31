@@ -38,11 +38,11 @@ Durante mi trayectoria, he desarrollado habilidades en optimización de motores 
 - Canva 
 - Adobe XD
 
-
+<!--
 <a href="https://github.com/Salame7">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=csalame-pensare&theme=radical&hide=glsl,python" />
 </a>
-<!--
+
 <img src="https://github-readme-stats.vercel.app/api?username=csalame-pensare&&show_icons=true&theme=radical&line_height=27&v=5" alt="Salame7's GitHub Stats" />
 -->
 <!--
