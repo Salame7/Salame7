@@ -1,4 +1,4 @@
-# <a href="www.linkedin.com/in/carlos-levy-salame-franco-7693252b4">Carlos Levy Salame Franco</a>
+# <a>Carlos Levy Salame Franco</a>
  
 
 Análisis de datos | Desarrollo Web | SEO Técnico 
